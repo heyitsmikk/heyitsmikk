@@ -5,10 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently working on learning C#
 - 🌱 I’m currently learning C#
-- 👯 I’m looking to collaborate on nothing
 - 🤔 I’m looking for help with nothing
-- 💬 Ask me about idk im dumb
 - 📫 How to reach me: mikk@mikk.cc
 - ⚡ Fun fact: I have been coding in python for 7 years
